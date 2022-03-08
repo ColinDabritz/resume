@@ -12,39 +12,39 @@ Seeking new challenges and interesting high-scale problems to solve at healthy s
 
 # Key Skills
   * Empathy, Communication, Creativity, Education, Tenacity
-  * Effective across operating systems (windows, Mac, Linux), Cloud Environments (Azure, AWS, GCP), Languages and Scripting (C#, Python, Bash, Powershell, more)
+  * Effective across operating systems (Windows, Mac, Linux), Cloud Environments (Azure, AWS, GCP), Languages and Scripting (C#, Python, Bash, Powershell, more)
   * Agile, DevOps, DevSecOps, Lean, CALMS, SRE
-  * A wide variety of technologies, platforms, systems, processes, services, and methodologies - Let's talk
+  * A wide variety of technologies, platforms, systems, processes, services, and methodologies
 
 # Experience
 
-## Trimble (Viewpoint division)
-### Platform Team - Remote - May 2021 - Present
+## Trimble (Viewpoint division) - Feb 2014 - Present
+### Platform Team - Remote - 2021 - Present
   * Improved existing practices increasing automation, reliability, and scale in infrastructure, deployment, and development areas
   * Evaluated, implemented and launched use of technologies include Kafka and Mongo to accommodate changing needs
   * Improved monitoring, notifications, maintenance, and automation of services in Kubernetes and Cloud Services, including full TLS (SSL) automation, DNS automation
   * Migrated and deprecated older technologies and systems over time, reducing overhead and waste
   * Managed and drove improvements to incident response and review processes, including commanding several live incidents, and followed up with incident prevention
 
-### Field View Team - Partly Remote - 2016 - May 2021
+### Field View Team - Partly Remote - 2016 - 2021
   * Modernized a 15 year old legacy application, including control for database schema, versioning, build and deployment automation, microservices, containerization
-  * Created a full 'self service' release pipeline for mobile applications in iOS and Android (with Xamarin), including automated simulator UI tests, physical device tests, and mobile-store delivery
+  * Created a full 'self-service' release pipeline for mobile applications in iOS and Android (with Xamarin), including automated simulator UI tests, physical device tests, and mobile-store delivery
   * Built relationships, closer collaboration and overlap with remote UK operations team, introducing shared DevOps principles and automation
   * Built an 'Admin Panel' replacement for a legacy desktop support application, bringing sensitive operations under auditable security controls
 
 ## Viewpoint
 ### Team Mobile - 2016
-  * Rapidly Designed and Implemented net-new mobile oriented clients and services integrated with the wider Team platform
-  * Decoupled dependencies on changing service definitions and needs to rapidly respond to changes or incidents in the Mobile area
-  * Implemented Xamarin and ASP.NET Core MVC end-to-end CI Pipelines with build, test, release, and monitoring capability
+  * Rapidly Designed and Implemented net-new mobile oriented clients and services integrated with the wider Viewpoint Team platform
+  * Decoupled dependencies on changing service definitions and needs to rapidly respond to changes or incidents in the mobile area
+  * Implemented Xamarin and ASP.NET Core MVC end-to-end CI pipelines with build, test, release, and monitoring capability
 
-### Mobile Field Manager Team - Partly Remote - Feb 2014 - 2015
+### Mobile Field Manager Team - Partly Remote - 2014 - 2015
   * Improved and normalized source control processes including bringing databases under source control
   * Documented and improved cross product and cross team workflows
   * Improved on-prem deployment processes, including configuration reliability and database setup and upgrades
 
 ## PDX Code Guild
-### Co-founder, Head Instructor - September 2013 - December 2013
+### Co-founder, Head Instructor - August 2013 - December 2013
   * Self funded bootstrapping to profitable in the first two months
   * Developed curriculum, delivered instruction and mentoring
   * Connected with government programs and industry
