@@ -38,7 +38,7 @@ Seeking new challenges and interesting high-scale problems to solve at healthy s
   * Decoupled dependencies on changing service definitions and needs to rapidly respond to changes or incidents in the Mobile area
   * Implemented Xamarin and ASP.NET Core MVC end-to-end CI Pipelines with build, test, release, and monitoring capability
 
-### Mobile Field Manager Team - Partly Remote - 2014 - 2015
+### Mobile Field Manager Team - Partly Remote - Feb 2014 - 2015
   * Improved and normalized source control processes including bringing databases under source control
   * Documented and improved cross product and cross team workflows
   * Improved on-prem deployment processes, including configuration reliability and database setup and upgrades
@@ -55,7 +55,7 @@ Seeking new challenges and interesting high-scale problems to solve at healthy s
   * Reviewing and improving educational program and resources
 
 ## Business Solutions Group, Oregon State University
-### Systems Development Engineer, Mentor - 2006 - 2013
+### Systems Development Engineer, Mentor - Feb 2005 - Jan 2013
   * Hands-on experiential program for students with paid client work
   * Mentored and managed paid students in analyst, QA, and developer roles
   * Developed training on key technical and process topics such as Agile, Source Control, Service architecture
