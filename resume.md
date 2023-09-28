@@ -1,7 +1,5 @@
 # Colin Dabritz - Resume
 
-===============
-
 ## Senior Engineer in DevSecOps, Platform Engineering
 
 * Email (Removed from public posting)
